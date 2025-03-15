@@ -10,6 +10,7 @@ body {
 
 .avatar {
     width: 150px;
+    border-radius: 10px;
 }
 
 .card {
@@ -37,10 +38,6 @@ body {
 
 .border-blue {
     border: 1px dotted blue;
-}
-
-.img {
-    border-radius: 5px;
 }
 
 /*
