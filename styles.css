@@ -39,6 +39,10 @@ body {
     border: 1px dotted blue;
 }
 
+.img {
+    border-radius: 5px;
+}
+
 /*
 Stretch goals:
 Find other ways you can personalize 
